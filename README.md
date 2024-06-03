@@ -4,7 +4,7 @@ An AI-powered research assitant which helps us in extracting information over pr
 # It is developed upon Langchain toolkit.
 It helps in extracting information in the news articles which we provide through URL Loaders and uses OpenAI Embeddings to capture the embeddings and store it over FAISS vector database which helps in faster retrieval.
 
-There are it is deployed over streamlit application to be accessible in the UI.
+It is deployed over streamlit application to be accessible in the UI.
 
 The installation steps are as follows:
 

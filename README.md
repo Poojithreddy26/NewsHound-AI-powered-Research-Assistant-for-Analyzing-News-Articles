@@ -16,3 +16,4 @@ The installation steps are as follows:
 3.Finally, Run "streamlit run main.py" which runs the application .
 
 if you are running it on local,you can access the application on 'localhost:8501'
+https://github.com/Poojithreddy26/NewsHound-AI-powered-Research-Assistant-for-Analyzing-News-Articles/blob/main/News_Research_Tool.jpg
